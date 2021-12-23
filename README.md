@@ -6,6 +6,7 @@ We are trying to determine whether refactoring code makes the given VBA script r
 
 ### Results
 ![Uploading VBA_Challenge_2017.png…]()
+
 ![Uploading VBA_Challenge_2018.png…]()
 
 I refactored the VBA code and measured performance. 
