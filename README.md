@@ -13,6 +13,8 @@ These are the results before refractoring:
 
 I refactored the VBA code and measured performance.
 
+
+
 <img width="372" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/93845867/147183242-c45815f9-f3df-4c51-b3a3-05a931d4fb50.png">
 
 <img width="443" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/93845867/147183252-6ff3177e-ab03-4dda-921a-e37f8543b32b.png">
